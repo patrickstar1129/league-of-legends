@@ -1,0 +1,10 @@
+.header_container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
